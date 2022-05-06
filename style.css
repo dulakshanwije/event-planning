@@ -179,6 +179,10 @@ main .line-2 {
 }
 
 @media screen and (max-width: 520px) {
+    h1 {
+        font-size: 2rem;
+    }
+
     main .line-1 {
 
         font-size: 0.8rem;
